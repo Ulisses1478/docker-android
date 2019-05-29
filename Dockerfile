@@ -1,1 +1,1 @@
-FROM butomo1989/docker-android-real-device
+FROM budtmo/docker-android-x86-8.1
